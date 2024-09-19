@@ -8,8 +8,6 @@
 
 <!---
 Cristian2124/Cristian2124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-export ANDROID_HOME=$HOME/Android/Sdk
-export PATH=$PATH:$ANDROID_HOME/emulator
-export PATH=$PATH:$ANDROID_HOME/platform-tools
+You can click the Preview link to take a look at your changes.en 
+en el principio creo Dios los cielos y la tierra está desordenada y vacía, y las tinieblas estaba sobre la faz del abismo, y el espíritu se movía sobre las faz de las aguas Y dijo Dios: Sea la luz; 
+y vio Dios que la luz era buena: y separo la luz de las tinieblas 
